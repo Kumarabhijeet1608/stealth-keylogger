@@ -195,7 +195,6 @@ For technical support or questions:
 - **v1.0.0**: Initial release with core functionality
 - **v1.1.0**: Added Discord webhook integration
 - **v1.2.0**: Enhanced stealth capabilities
-- **v1.3.0**: Professional codebase cleanup
 
 ---
 
